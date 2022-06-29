@@ -1,4 +1,8 @@
 ## Pensamento Computacional na Base Nacional Comum Curricular (BNCC)
+A **Base Nacional Comum Curricular ([BNCC](http://basenacionalcomum.mec.gov.br/))** é um documento de caráter normativo que define o conjunto orgânico e progressivo de aprendizagens essenciais que todos os alunos devem desenvolver ao longo das etapas e modalidades da Educação Básica.
+
+Na BNCC encontra-se estabelecido o seguinte:
+
 O Ensino Médio deve garantir aos estudantes a compreensão dos fundamentos científico-tecnológicos dos processos produtivos, relacionando a teoria com a prática. Para tanto, a escola que acolhe as juventudes, por meio da articulação entre diferentes áreas do conhecimento, deve possibilitar aos estudantes, dentre outros aspectos, a apropriação das linguagens das tecnologias digitais e a aquisição da fluência em sua utilização.
 
 É preciso garantir aos jovens aprendizagens para atuar em uma sociedade em constante mudança, prepará-los para profissões que ainda não existem, para usar tecnologias que ainda não foram inventadas e para resolver problemas que ainda não conhecemos. Certamente, grande parte das futuras profissões envolverá, direta ou indiretamente, computação e tecnologias digitais.
@@ -7,7 +11,7 @@ O **pensamento computacional**, juntamente com o mundo digital e a cultura digit
 
 No Ensino Médio, dada a intrínseca relação entre as culturas juvenis e a cultura digital, torna-se imprescindível ampliar e aprofundar as aprendizagens construídas nas etapas do Ensino Fundamental. Afinal, os jovens estão dinamicamente inseridos na cultura digital, não somente como consumidores, mas se engajando cada vez mais como protagonistas.
 
-Portanto, na **[BNCC](http://basenacionalcomum.mec.gov.br/)** do Ensino Médio, o foco passa a estar no reconhecimento das potencialidades das tecnologias digitais para a realização de uma série de atividades relacionadas a todas as áreas do conhecimento, a diversas práticas sociais e ao mundo do trabalho. São definidas competências e habilidades, nas diferentes áreas, que permitem aos estudantes:
+Portanto, o foco passa a estar no reconhecimento das potencialidades das tecnologias digitais para a realização de uma série de atividades relacionadas a todas as áreas do conhecimento, a diversas práticas sociais e ao mundo do trabalho. São definidas competências e habilidades, nas diferentes áreas, que permitem aos estudantes:
 - Buscar dados e informações de forma crítica nas diferentes mídias, inclusive as sociais, analisando as vantagens do uso e da evolução da tecnologia na sociedade atual, como também seus riscos potenciais;
 - Apropriar-se das linguagens da cultura digital, dos novos letramentos e dos multiletramentos para explorar e produzir conteúdos em diversas mídias, ampliando as possibilidades de acesso à ciência, à tecnologia, à cultura e ao trabalho;
 - Usar diversas ferramentas de software e aplicativos para compreender e produzir conteúdos em diversas mídias, simular fenômenos e processos das diferentes áreas do conhecimento, e elaborar e explorar diversos registros de representação matemática;
