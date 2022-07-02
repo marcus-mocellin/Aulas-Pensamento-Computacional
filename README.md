@@ -1,4 +1,4 @@
-## Arquivos Pong.sb3 e Star_wars.sb3
+## Arquivos Pong.sb3 e Star_Wars.sb3
 O **[Scratch](https://scratch.mit.edu/)** utiliza uma interface visual simples que permite aos jovens criarem histórias, jogos e animações digitais. Desta forma, promove o **pensamento computacional** e a equidade em computação, além de contribuir com o desenvolvimento das habilidades necessárias para o ensino e aprendizagem criativos, auto-expressão e colaboração.
 
 O programa **Pong** foi a primeira atividade conduzida com a turma. Passo a passo, o programa foi sendo construído pelo professor em sala de aula, com o acompanhamento dos alunos.
