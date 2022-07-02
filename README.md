@@ -10,3 +10,5 @@ O programa **Star_Wars** foi proposto como atividade avaliativa e os alunos fora
 - [Como Programar um Jogo Espacial com Scratch - Parte 4](https://www.youtube.com/watch?v=1bax3FcwRN8)
 - [Como Programar um Jogo Espacial com Scratch - Parte 5](https://www.youtube.com/watch?v=zqhWKmlq3A4)
 - [Como Programar um Jogo Espacial com Scratch - Parte 6](https://www.youtube.com/watch?v=FK8Mq8RGIzw)
+
+![Imagem1](https://user-images.githubusercontent.com/100809861/176980617-a243f060-fd3c-42ff-8413-5e42bc0fb433.png)
