@@ -9,11 +9,11 @@ Esta atividade é fundamental para possibilitar o aprendizado dos primeiros elem
 
 É importante que o professor proponha desafios à medida que constrói o programa, de forma a conseguir avaliar se os alunos aprenderam a utilizar corretamente os blocos de programação e as suas combinações.
 
-## Star Wars no Scratch
+## Jogo Espacial no Scratch
 
 ![Imagem1](https://user-images.githubusercontent.com/100809861/176980617-a243f060-fd3c-42ff-8413-5e42bc0fb433.png)
 
-O programa `star-wars.sb3` é proposto como atividade complementar, com o objetivo de proporcionar aos alunos a oportunidade e o tempo necessários para a fixação dos conhecimentos anteriormente adquiridos, bem como para o desenvolvimento das habilidades necessárias.
+O programa `jogo-espacial.sb3` é proposto como atividade complementar, com o objetivo de proporcionar aos alunos a oportunidade e o tempo necessários para a fixação dos conhecimentos anteriormente adquiridos, bem como para o desenvolvimento das habilidades necessárias.
 
 Nesta atividade os alunos devem ser encorajados a aprenderem sozinhos, acompanhando os seguintes vídeos que estão disponíveis no canal [Brincando com Ideias](https://www.youtube.com/c/BrincandocomIdeias) do [YouTube](https://www.youtube.com/):
 - [Jogo Espacial com Scratch - Parte 1](https://www.youtube.com/watch?v=7-yd-l-N310&t=61s)
