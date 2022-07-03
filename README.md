@@ -3,6 +3,8 @@ Para conhecer melhor o **[Scratch](https://scratch.mit.edu/)**, recomenda-se o [
 
 ## Pong no Scratch
 
+![pong](https://user-images.githubusercontent.com/100809861/177050745-03d32b0b-33a2-4ec3-931a-dd071486e605.png)
+
 O programa `pong.sb3` é a primeira atividade sugerida. Passo a passo, o programa deve ser construído pelo professor em sala de aula, com o devido acompanhamento dos alunos.
 
 Esta atividade é fundamental para possibilitar o aprendizado dos primeiros elementos de **lógica de programação**.
@@ -11,7 +13,7 @@ Esta atividade é fundamental para possibilitar o aprendizado dos primeiros elem
 
 ## Jogo Espacial no Scratch
 
-![Imagem1](https://user-images.githubusercontent.com/100809861/176980617-a243f060-fd3c-42ff-8413-5e42bc0fb433.png)
+![espaco](https://user-images.githubusercontent.com/100809861/177050902-b3b810f9-663f-4d2d-81b1-0dd714088947.png)
 
 O programa `jogo-espacial.sb3` é proposto como atividade complementar, com o objetivo de proporcionar aos alunos a oportunidade e o tempo necessários para a fixação dos conhecimentos anteriormente adquiridos, bem como para o desenvolvimento das habilidades necessárias.
 
