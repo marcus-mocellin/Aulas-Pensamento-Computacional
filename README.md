@@ -3,7 +3,7 @@ Para conhecer melhor o **[Scratch](https://scratch.mit.edu/)**, recomenda-se o [
 
 ### Pong no Scratch
 
-![pong](https://user-images.githubusercontent.com/100809861/177050745-03d32b0b-33a2-4ec3-931a-dd071486e605.png)
+![imagem-pong-no-scratch](https://user-images.githubusercontent.com/100809861/177050745-03d32b0b-33a2-4ec3-931a-dd071486e605.png)
 
 A Construção do programa **Pong no Scratch** é a primeira atividade sugerida. Passo a passo, o programa deve ser construído pelo professor em sala de aula, com o devido acompanhamento dos alunos.
 
@@ -15,9 +15,14 @@ O código está disponível no arquivo `pong.sb3`.
 
 ### Jogo Espacial no Scratch
 
-![espaco](https://user-images.githubusercontent.com/100809861/177420565-0d6d034f-bbfd-493e-bfb8-3cc6382793ec.png)
-
-A construção do programa **Jogo Espacial no Scratch** é proposta como atividade complementar, com o objetivo de proporcionar aos alunos a oportunidade e o tempo necessários para a fixação dos conhecimentos anteriormente adquiridos, bem como para o desenvolvimento das habilidades necessárias.
+<div>
+<div style="display:inline-block;vertical-align:top;">
+<img src="https://user-images.githubusercontent.com/100809861/177420565-0d6d034f-bbfd-493e-bfb8-3cc6382793ec.png"/>
+</div>
+<div>
+<div style="display:inline-block">
+<p>A construção do programa **Jogo Espacial no Scratch** é proposta como atividade complementar, com o objetivo de proporcionar aos alunos a oportunidade e o tempo necessários para a fixação dos conhecimentos anteriormente adquiridos, bem como para o desenvolvimento das habilidades necessárias.</p>
+</div>
 
 Nesta atividade os alunos devem ser encorajados a aprenderem sozinhos, acompanhando os seguintes vídeos que estão disponíveis no canal [Brincando com Ideias](https://www.youtube.com/c/BrincandocomIdeias) do [YouTube](https://www.youtube.com/):
 - [Jogo Espacial com Scratch - Parte 1](https://www.youtube.com/watch?v=7-yd-l-N310&t=61s)
