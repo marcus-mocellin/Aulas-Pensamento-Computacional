@@ -28,3 +28,7 @@ Nesta atividade os alunos devem ser encorajados a aprenderem sozinhos, acompanha
 Esta é a fase do aprendizado que exige a maior disponibilidade de tempo e a maior atenção por parte do professor, principalmente com os alunos que nunca tiveram contato com computadores.
 
 Observa-se que os alunos que terminam esta etapa do aprendizado e não se sentem confortáveis para utilizar o Scratch sozinhos, ou não conseguem alcançar resultados satisfatórios durante as aulas, acabam se desmotivando ou, até mesmo, desenvolvendo bloqueios psicológicos que dificultam ou impedem o aprendizado posterior das linguagens de programação.
+
+# JavaScript
+
+# HTML5 e CSS3
