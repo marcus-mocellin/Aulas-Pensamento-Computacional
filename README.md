@@ -1,21 +1,23 @@
 # Scratch
 Para conhecer melhor o **[Scratch](https://scratch.mit.edu/)**, recomenda-se o [texto explicativo](https://scratchbrasil.org.br/o-que-e-scratch/) disponível no site [Scratch Brasil](https://scratchbrasil.org.br/).
 
-## Pong no Scratch
+### Pong no Scratch
 
 ![pong](https://user-images.githubusercontent.com/100809861/177050745-03d32b0b-33a2-4ec3-931a-dd071486e605.png)
 
-O programa `pong.sb3` é a primeira atividade sugerida. Passo a passo, o programa deve ser construído pelo professor em sala de aula, com o devido acompanhamento dos alunos.
+A Construção do programa **Pong no Scratch** é a primeira atividade sugerida. Passo a passo, o programa deve ser construído pelo professor em sala de aula, com o devido acompanhamento dos alunos.
 
 Esta atividade é fundamental para possibilitar o aprendizado dos primeiros elementos de **lógica de programação**.
 
 É importante que o professor proponha desafios à medida que constrói o programa, de forma a conseguir avaliar se os alunos aprenderam a utilizar corretamente os blocos de programação e as suas combinações.
 
-## Jogo Espacial no Scratch
+O código está disponível no arquivo `pong.sb3`.
 
-![espaco](https://user-images.githubusercontent.com/100809861/177050902-b3b810f9-663f-4d2d-81b1-0dd714088947.png)
+### Jogo Espacial no Scratch
 
-O programa `jogo-espacial.sb3` é proposto como atividade complementar, com o objetivo de proporcionar aos alunos a oportunidade e o tempo necessários para a fixação dos conhecimentos anteriormente adquiridos, bem como para o desenvolvimento das habilidades necessárias.
+![espaco](https://user-images.githubusercontent.com/100809861/177420565-0d6d034f-bbfd-493e-bfb8-3cc6382793ec.png)
+
+A construção do programa **Jogo Espacial no Scratch** é proposta como atividade complementar, com o objetivo de proporcionar aos alunos a oportunidade e o tempo necessários para a fixação dos conhecimentos anteriormente adquiridos, bem como para o desenvolvimento das habilidades necessárias.
 
 Nesta atividade os alunos devem ser encorajados a aprenderem sozinhos, acompanhando os seguintes vídeos que estão disponíveis no canal [Brincando com Ideias](https://www.youtube.com/c/BrincandocomIdeias) do [YouTube](https://www.youtube.com/):
 - [Jogo Espacial com Scratch - Parte 1](https://www.youtube.com/watch?v=7-yd-l-N310&t=61s)
@@ -29,6 +31,31 @@ Esta é a fase do aprendizado que exige a maior disponibilidade de tempo e a mai
 
 Observa-se que os alunos que terminam esta etapa do aprendizado e não se sentem confortáveis para utilizar o Scratch sozinhos, ou não conseguem alcançar resultados satisfatórios durante as aulas, acabam se desmotivando ou, até mesmo, desenvolvendo bloqueios psicológicos que dificultam ou impedem o aprendizado posterior das linguagens de programação.
 
-# JavaScript
+O código está disponível no arquivo `jogo-espacial.sb3`.
+
+# p5.js
+O **[p5.js](https://p5js.org/)** é uma **biblioteca JavaScript**, gratuita e de código aberto. Com foco em tornar a codificação acessível e inclusiva, atende às necessidades de artistas, designers, educadores, iniciantes e demais interessados no aprendizado da linguagem.
+
+### Pong no JavaScript
+A contrução do programa **Pong** tem por objetivo proporcionar o aprendizado dos primeiros elementos do **JavaScript**.
+
+Como os detalhes do jogo já são de conhecimento dos alunos, a estruturação do programa, os comandos JavaScript e suas sintaxes passam a ser os objetos centrais do processo de ensino-aprendizagem.
+
+Em `pong.zip` estão todos os arquivos necessários, incluindo os sons utilizados.
+
+### Pong com Biblioteca no JavaScript
+
+Este segundo programa é simplesmente uma variante do **Pong no JavaScript**, ao qual foi acrescentada uma [biblioteca p5.js](https://github.com/bmoren/p5.collide2D/blob/master/p5.collide2d.js) para simplificar o código que controla a colisão da bolinha com as raquetes. Esta biblioteca pode ser obtida no próprio [p5.js](https://p5js.org/), em:<br>
+***Menu -> Ajuda -> Bibliotecas (Libraries) -> p5.collide2D***
+
+Em `pong-biblioteca.zip` estão disponíveis todos os arquivos necessários, incluindo a biblioteca e os sons utilizados.
+
+### Freeway
+
+A construção do programa **Freeway** é proposta como atividade complementar.
+
+Esta atividade proporciona o aprendizado de elementos importantes de programação, como a criação de listas (arrays), o carregamento de imagens e o uso de funções.
+
+Em `freeway.zip` estão todos os arquivos necessários, incluindo as imagens e os sons utilizados.
 
 # HTML5 e CSS3
