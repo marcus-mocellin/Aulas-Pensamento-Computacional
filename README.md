@@ -21,12 +21,12 @@ O objetivo é proporcionar aos alunos a oportunidade e o tempo necessários para
 ![imagem-jogo-espacial](https://user-images.githubusercontent.com/100809861/177420565-0d6d034f-bbfd-493e-bfb8-3cc6382793ec.png)
 
 Para a realização desta atividade, os alunos podem ser encorajados a aprenderem sozinhos, acompanhando os seguintes vídeos que estão disponíveis no canal **[Brincando com Ideias](https://www.youtube.com/c/BrincandocomIdeias)** do **[YouTube](https://www.youtube.com/)**:
-- [Jogo Espacial com Scratch - Parte 1](https://www.youtube.com/watch?v=7-yd-l-N310&t=61s)
-- [Jogo Espacial com Scratch - Aprenda a Programar! - Parte 2](https://www.youtube.com/watch?v=SLZ3jjSZ3Ag&t=66s)
-- [Como Programar um Jogo Espacial com Scratch - Parte 3](https://www.youtube.com/watch?v=kXbD5U77uPY)
-- [Como Programar um Jogo Espacial com Scratch - Parte 4](https://www.youtube.com/watch?v=1bax3FcwRN8)
-- [Como Programar um Jogo Espacial com Scratch - Parte 5](https://www.youtube.com/watch?v=zqhWKmlq3A4)
-- [Como Programar um Jogo Espacial com Scratch - Parte 6](https://www.youtube.com/watch?v=FK8Mq8RGIzw)
+- [Como Programar o Jogo Espacial no Scratch - Parte 1](https://www.youtube.com/watch?v=7-yd-l-N310&t=61s)
+- [Como Programar o Jogo Espacial no Scratch - Parte 2](https://www.youtube.com/watch?v=SLZ3jjSZ3Ag&t=66s)
+- [Como Programar o Jogo Espacial no Scratch - Parte 3](https://www.youtube.com/watch?v=kXbD5U77uPY)
+- [Como Programar o Jogo Espacial no Scratch - Parte 4](https://www.youtube.com/watch?v=1bax3FcwRN8)
+- [Como Programar o Jogo Espacial no Scratch - Parte 5](https://www.youtube.com/watch?v=zqhWKmlq3A4)
+- [Como Programar o Jogo Espacial no Scratch - Parte 6](https://www.youtube.com/watch?v=FK8Mq8RGIzw)
 
 Esta é a fase do aprendizado que exige a maior disponibilidade de tempo e a maior atenção por parte do professor, principalmente com os alunos que nunca tiveram contato com computadores.
 
