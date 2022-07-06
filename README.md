@@ -2,7 +2,7 @@
 Para conhecer melhor o **[Scratch](https://scratch.mit.edu/)**, recomenda-se o [texto explicativo](https://scratchbrasil.org.br/o-que-e-scratch/) disponível no site [Scratch Brasil](https://scratchbrasil.org.br/).
 
 ### Pong no Scratch
-A Construção do programa **Pong no Scratch** é a primeira atividade sugerida. Passo a passo, o programa deve ser construído pelo professor em sala de aula, com o devido acompanhamento dos alunos.
+A Construção do programa **Pong** no **[Scratch](https://scratch.mit.edu/)** é a primeira atividade sugerida. Passo a passo, o programa deve ser construído pelo professor em sala de aula, com o devido acompanhamento dos alunos.
 
 ![imagem-pong-no-scratch](https://user-images.githubusercontent.com/100809861/177050745-03d32b0b-33a2-4ec3-931a-dd071486e605.png)
 
@@ -14,7 +14,7 @@ O código está disponível no arquivo `pong.sb3`.
 
 ### Jogo Espacial no Scratch
 
-A construção do programa **Jogo Espacial no Scratch** é sugerida como atividade complementar.
+A construção do programa **Jogo Espacial** no **[Scratch](https://scratch.mit.edu/)** é sugerida como atividade complementar.
 
 O objetivo é proporcionar aos alunos a oportunidade e o tempo necessários para a fixação dos conhecimentos anteriormente adquiridos, bem como para o desenvolvimento das habilidades necessárias.
 
@@ -48,13 +48,13 @@ Em `pong.zip` estão todos os arquivos necessários, incluindo os sons utilizado
 
 ### Pong com Biblioteca do p5.js
 
-Este segundo programa é simplesmente uma variante do **Pong no JavaScript**, ao qual foi acrescentada uma [biblioteca p5.js](https://p5js.org/libraries/) denominada [p5.collide2d](https://github.com/bmoren/p5.collide2D/blob/master/p5.collide2d.js), com o objetivo de simplificar o código que controla a colisão da bolinha com as raquetes. Esta biblioteca pode ser obtida no próprio **[p5.js](https://p5js.org/)**, em: ***Menu -> Ajuda -> Bibliotecas (Libraries) -> p5.collide2D***
+Este segundo programa é simplesmente uma variante do **Pong** no **[p5.js](https://p5js.org/)**, ao qual foi acrescentada uma [biblioteca p5.js](https://p5js.org/libraries/) denominada [p5.collide2d](https://github.com/bmoren/p5.collide2D/blob/master/p5.collide2d.js), com o objetivo de simplificar o código que controla a colisão da bolinha com as raquetes. Esta biblioteca pode ser obtida no próprio **[p5.js](https://p5js.org/)**, em: ***Menu -> Ajuda -> Bibliotecas (Libraries) -> p5.collide2D***
 
 Em `pong-biblioteca.zip` estão disponíveis todos os arquivos necessários, incluindo a biblioteca e os sons utilizados.
 
 ### Freeway no p5.js
 
-A construção do programa **Freeway** é sugerida como atividade complementar.
+A construção do programa **Freeway** no **[p5.js](https://p5js.org/)** é sugerida como atividade complementar.
 
 ![freeway](https://user-images.githubusercontent.com/100809861/177650961-14c85f92-eae6-45d6-922b-80a1074a4178.png)
 
