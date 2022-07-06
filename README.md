@@ -58,3 +58,11 @@ Esta atividade proporciona o aprendizado de elementos importantes de programaç�
 Em `freeway.zip` estão todos os arquivos necessários, incluindo as imagens e os sons utilizados.
 
 # HTML5 e CSS3
+
+Recomenda-se a instalação do **[Sublime Text](https://www.sublimetext.com/)** para o desenvolvimento de códigos **HTML** e **CSS**.
+
+Clique [aqui](https://www.sublimetext.com/download_thanks?target=win-x64) para realizar o download para Windows.
+
+Outros editores de código: [Atom](https://atom.io/) e [Visual Studio Code](https://code.visualstudio.com/).
+
+### Barbearia Alura
