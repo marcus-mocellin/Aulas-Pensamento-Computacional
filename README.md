@@ -52,8 +52,6 @@ Este segundo programa é simplesmente uma variante do **Pong** no **[p5.js](http
 
 Nesta variante é utilizada uma [biblioteca p5.js](https://p5js.org/libraries/) denominada [p5.collide2d](https://github.com/bmoren/p5.collide2D/blob/master/p5.collide2d.js), com o objetivo de simplificar o código que controla a colisão da bolinha com as raquetes.
 
-Esta e outras bibliotecas p5.js também podem ser obtidas em **[p5.js](https://p5js.org/)**, no caminho: ***Menu -> Ajuda -> Bibliotecas (Libraries) -> p5.collide2D***
-
 Em `pong-biblioteca.zip` estão disponíveis todos os arquivos necessários, incluindo a biblioteca e os sons utilizados.
 
 ### Freeway no p5.js
