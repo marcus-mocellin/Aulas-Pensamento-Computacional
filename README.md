@@ -2,10 +2,9 @@
 Para conhecer melhor o **[Scratch](https://scratch.mit.edu/)**, recomenda-se o [texto explicativo](https://scratchbrasil.org.br/o-que-e-scratch/) disponível no site [Scratch Brasil](https://scratchbrasil.org.br/).
 
 ### Pong no Scratch
+A Construção do programa **Pong no Scratch** é a primeira atividade sugerida. Passo a passo, o programa deve ser construído pelo professor em sala de aula, com o devido acompanhamento dos alunos.
 
 ![imagem-pong-no-scratch](https://user-images.githubusercontent.com/100809861/177050745-03d32b0b-33a2-4ec3-931a-dd071486e605.png)
-
-A Construção do programa **Pong no Scratch** é a primeira atividade sugerida. Passo a passo, o programa deve ser construído pelo professor em sala de aula, com o devido acompanhamento dos alunos.
 
 Esta atividade é fundamental para possibilitar o aprendizado dos primeiros elementos de **lógica de programação**.
 
@@ -15,7 +14,7 @@ O código está disponível no arquivo `pong.sb3`.
 
 ### Jogo Espacial no Scratch
 
-A construção do programa **Jogo Espacial no Scratch** é proposta como atividade complementar, com o objetivo de proporcionar aos alunos a oportunidade e o tempo necessários para a fixação dos conhecimentos anteriormente adquiridos, bem como para o desenvolvimento das habilidades necessárias.
+A construção do programa **Jogo Espacial no Scratch** é sugerida como atividade complementar, com o objetivo de proporcionar aos alunos a oportunidade e o tempo necessários para a fixação dos conhecimentos anteriormente adquiridos, bem como para o desenvolvimento das habilidades necessárias.
 
 ![imagem-jogo-espacial](https://user-images.githubusercontent.com/100809861/177420565-0d6d034f-bbfd-493e-bfb8-3cc6382793ec.png)
 
@@ -39,6 +38,8 @@ O **[p5.js](https://p5js.org/)** é uma **biblioteca JavaScript**, gratuita e de
 ### Pong no JavaScript
 A contrução do programa **Pong** tem por objetivo proporcionar o aprendizado dos primeiros elementos do **JavaScript**.
 
+![pong](https://user-images.githubusercontent.com/100809861/177651760-0f083ce7-5e7c-414d-8ce1-49249b2c3419.png)
+
 Como os detalhes do jogo já são de conhecimento dos alunos, a estruturação do programa, os comandos JavaScript e suas sintaxes passam a ser os objetos centrais do processo de ensino-aprendizagem.
 
 Em `pong.zip` estão todos os arquivos necessários, incluindo os sons utilizados.
@@ -51,7 +52,9 @@ Em `pong-biblioteca.zip` estão disponíveis todos os arquivos necessários, inc
 
 ### Freeway
 
-A construção do programa **Freeway** é proposta como atividade complementar.
+A construção do programa **Freeway** é sugerida como atividade complementar.
+
+![freeway](https://user-images.githubusercontent.com/100809861/177650961-14c85f92-eae6-45d6-922b-80a1074a4178.png)
 
 Esta atividade proporciona o aprendizado de elementos importantes de programação, como a criação de listas (arrays), o carregamento de imagens e o uso de funções.
 
