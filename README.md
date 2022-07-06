@@ -8,17 +8,19 @@ A Construção do programa **Pong no Scratch** é a primeira atividade sugerida.
 
 Esta atividade é fundamental para possibilitar o aprendizado dos primeiros elementos de **lógica de programação**.
 
-É importante que o professor proponha desafios à medida que constrói o programa, de forma a conseguir avaliar se os alunos aprenderam a utilizar corretamente os blocos de programação e as suas combinações.
+É importante que o professor proponha desafios à medida que constrói o programa, de forma a conseguir avaliar se os alunos aprenderam a utilizar corretamente os blocos de programação e suas combinações.
 
 O código está disponível no arquivo `pong.sb3`.
 
 ### Jogo Espacial no Scratch
 
-A construção do programa **Jogo Espacial no Scratch** é sugerida como atividade complementar, com o objetivo de proporcionar aos alunos a oportunidade e o tempo necessários para a fixação dos conhecimentos anteriormente adquiridos, bem como para o desenvolvimento das habilidades necessárias.
+A construção do programa **Jogo Espacial no Scratch** é sugerida como atividade complementar.
+
+O objetivo é proporcionar aos alunos a oportunidade e o tempo necessários para a fixação dos conhecimentos anteriormente adquiridos, bem como para o desenvolvimento das habilidades necessárias.
 
 ![imagem-jogo-espacial](https://user-images.githubusercontent.com/100809861/177420565-0d6d034f-bbfd-493e-bfb8-3cc6382793ec.png)
 
-Nesta atividade os alunos devem ser encorajados a aprenderem sozinhos, acompanhando os seguintes vídeos que estão disponíveis no canal [Brincando com Ideias](https://www.youtube.com/c/BrincandocomIdeias) do [YouTube](https://www.youtube.com/):
+Para a realização desta atividade, os alunos podem ser encorajados a aprenderem sozinhos, acompanhando os seguintes vídeos que estão disponíveis no canal **[Brincando com Ideias](https://www.youtube.com/c/BrincandocomIdeias)** do **[YouTube](https://www.youtube.com/)**:
 - [Jogo Espacial com Scratch - Parte 1](https://www.youtube.com/watch?v=7-yd-l-N310&t=61s)
 - [Jogo Espacial com Scratch - Aprenda a Programar! - Parte 2](https://www.youtube.com/watch?v=SLZ3jjSZ3Ag&t=66s)
 - [Como Programar um Jogo Espacial com Scratch - Parte 3](https://www.youtube.com/watch?v=kXbD5U77uPY)
@@ -33,7 +35,7 @@ Observa-se que os alunos que terminam esta etapa do aprendizado e não se sentem
 O código está disponível no arquivo `jogo-espacial.sb3`.
 
 # p5.js
-O **[p5.js](https://p5js.org/)** é uma **biblioteca JavaScript**, gratuita e de código aberto. Com foco em tornar a codificação acessível e inclusiva, atende às necessidades de artistas, designers, educadores, iniciantes e demais interessados no aprendizado da linguagem.
+O **[p5.js](https://p5js.org/)** é uma **biblioteca JavaScript** gratuita e de código aberto, com foco em tornar a codificação acessível e inclusiva, atendendo às necessidades de artistas, designers, educadores, iniciantes e demais interessados no aprendizado da linguagem **JavaScript**.
 
 ### Pong no JavaScript
 A contrução do programa **Pong** tem por objetivo proporcionar o aprendizado dos primeiros elementos do **JavaScript**.
@@ -46,7 +48,7 @@ Em `pong.zip` estão todos os arquivos necessários, incluindo os sons utilizado
 
 ### Pong com Biblioteca no JavaScript
 
-Este segundo programa é simplesmente uma variante do **Pong no JavaScript**, ao qual foi acrescentada uma [biblioteca p5.js](https://github.com/bmoren/p5.collide2D/blob/master/p5.collide2d.js) para simplificar o código que controla a colisão da bolinha com as raquetes. Esta biblioteca pode ser obtida no próprio [p5.js](https://p5js.org/), em: ***Menu -> Ajuda -> Bibliotecas (Libraries) -> p5.collide2D***
+Este segundo programa é simplesmente uma variante do **Pong no JavaScript**, ao qual foi acrescentada uma [biblioteca p5.js](https://p5js.org/libraries/) denominada [p5.collide2d](https://github.com/bmoren/p5.collide2D/blob/master/p5.collide2d.js), com o objetivo de simplificar o código que controla a colisão da bolinha com as raquetes. Esta biblioteca pode ser obtida no próprio **[p5.js](https://p5js.org/)**, em: ***Menu -> Ajuda -> Bibliotecas (Libraries) -> p5.collide2D***
 
 Em `pong-biblioteca.zip` estão disponíveis todos os arquivos necessários, incluindo a biblioteca e os sons utilizados.
 
@@ -62,10 +64,10 @@ Em `freeway.zip` estão todos os arquivos necessários, incluindo as imagens e o
 
 # HTML5 e CSS3
 
-Recomenda-se a instalação do **[Sublime Text](https://www.sublimetext.com/)** para o desenvolvimento de códigos **HTML** e **CSS**.
+Para o desenvolvimento dos códigos **HTML** e **CSS** foi utilizado o editor de código **[Sublime Text](https://www.sublimetext.com/)**.
 
-Clique [aqui](https://www.sublimetext.com/download_thanks?target=win-x64) para realizar o download para Windows.
+Se desejar, clique [aqui](https://www.sublimetext.com/download_thanks?target=win-x64) para realizar o download da versão para Windows.
 
-Outros editores de código: [Atom](https://atom.io/) e [Visual Studio Code](https://code.visualstudio.com/).
+Outros editores de código que podem ser utilizados são, por exemplo: **[Atom](https://atom.io/)** e **[Visual Studio Code](https://code.visualstudio.com/)**.
 
 ### Barbearia Alura
