@@ -46,9 +46,13 @@ Como os detalhes do jogo já são de conhecimento dos alunos, a estruturação d
 
 Em `pong.zip` estão todos os arquivos necessários, incluindo os sons utilizados.
 
-### Pong com Biblioteca do p5.js
+### Pong com Biblioteca no p5.js
 
-Este segundo programa é simplesmente uma variante do **Pong** no **[p5.js](https://p5js.org/)**, ao qual foi acrescentada uma [biblioteca p5.js](https://p5js.org/libraries/) denominada [p5.collide2d](https://github.com/bmoren/p5.collide2D/blob/master/p5.collide2d.js), com o objetivo de simplificar o código que controla a colisão da bolinha com as raquetes. Esta biblioteca pode ser obtida no próprio **[p5.js](https://p5js.org/)**, em: ***Menu -> Ajuda -> Bibliotecas (Libraries) -> p5.collide2D***
+Este segundo programa é simplesmente uma variante do **Pong** no **[p5.js](https://p5js.org/)**.
+
+Nesta variante é utilizada uma [biblioteca p5.js](https://p5js.org/libraries/) denominada [p5.collide2d](https://github.com/bmoren/p5.collide2D/blob/master/p5.collide2d.js), com o objetivo de simplificar o código que controla a colisão da bolinha com as raquetes.
+
+Esta e outras bibliotecas p5.js também podem ser obtidas em **[p5.js](https://p5js.org/)**, no caminho: ***Menu -> Ajuda -> Bibliotecas (Libraries) -> p5.collide2D***
 
 Em `pong-biblioteca.zip` estão disponíveis todos os arquivos necessários, incluindo a biblioteca e os sons utilizados.
 
