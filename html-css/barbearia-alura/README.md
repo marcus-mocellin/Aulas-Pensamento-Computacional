@@ -1,6 +1,6 @@
 # Barbearia Alura
 
-No arquivo `index.html` está a estrutura HTML da página e em `style.css` estão os elementos de renderização.
+No arquivo `index.html` está a estrutura HTML da página e em `style.css` estão as configurações visuais.
 
 O texto utilizado está disponível no arquivo `texto-base.zip`.
 
