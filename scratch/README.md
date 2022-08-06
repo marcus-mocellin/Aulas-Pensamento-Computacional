@@ -1,5 +1,5 @@
 # Scratch
-Para conhecer melhor o **[Scratch](https://scratch.mit.edu/)**, recomenda-se o texto [O que é o scratch?](https://scratchbrasil.org.br/o-que-e-scratch/) disponível no site [Scratch Brasil](https://scratchbrasil.org.br/).
+Para conhecer melhor o **[Scratch](https://scratch.mit.edu/)**, recomenda-se o texto [O que é o Scratch?](https://scratchbrasil.org.br/o-que-e-scratch/) disponível no site [Scratch Brasil](https://scratchbrasil.org.br/).
 
 ### Pong no Scratch
 A Construção do programa **Pong** no **[Scratch](https://scratch.mit.edu/)** é a primeira atividade sugerida. Passo a passo, o programa deve ser construído pelo professor em sala de aula, com o devido acompanhamento dos alunos.
