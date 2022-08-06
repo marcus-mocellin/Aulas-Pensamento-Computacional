@@ -1,6 +1,6 @@
-# Grupo de Estudos Programação 2022
+# GE Programação 2022
 
-## Desafio: Construindo uma página HTML
+## Desafio: você pode aprender sobre tags de texto
 
 ![pagina](https://user-images.githubusercontent.com/100809861/182268493-2af0c548-f832-47de-9b38-ce18e9e81d91.png)
 
