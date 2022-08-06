@@ -9,3 +9,7 @@ Outros editores de código que podem ser utilizados são, por exemplo, o **[Atom
 ## Barbearia Alura
 
 A contrução da página **Barbearia Alura** tem por objetivo proporcionar o aprendizado dos primeiros elementos de programação em **HTML** e **CSS**.
+
+## GE Programação 2022
+
+A construção da página **Desafio: você pode aprender sobre tags de texto** foi uma atividade realizada no **Grupo de Estudo Programação 2022**.
