@@ -32,4 +32,4 @@ Esta é a fase do aprendizado que exige a maior disponibilidade de tempo e a mai
 
 Observa-se que os alunos que terminam esta etapa do aprendizado e não se sentem confortáveis para utilizar o Scratch sozinhos, ou não conseguem alcançar resultados satisfatórios durante as aulas, acabam se desmotivando ou, até mesmo, desenvolvendo bloqueios psicológicos que dificultam ou impedem o aprendizado posterior das linguagens de programação.
 
-O código está disponível no arquivo `jogo-espacial.sb3`.
+O código está disponível no arquivo `jogo-espacial.sb3` e faz uso da imagem `nave-espacial.png`.
