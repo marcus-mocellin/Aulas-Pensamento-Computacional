@@ -1,7 +1,7 @@
 # Scratch
 Para conhecer melhor o **[Scratch](https://scratch.mit.edu/)**, recomenda-se o [texto explicativo](https://scratchbrasil.org.br/o-que-e-scratch/) disponível no site [Scratch Brasil](https://scratchbrasil.org.br/).
 
-## Pong no Scratch
+### Pong no Scratch
 A Construção do programa **Pong** no **[Scratch](https://scratch.mit.edu/)** é a primeira atividade sugerida. Passo a passo, o programa deve ser construído pelo professor em sala de aula, com o devido acompanhamento dos alunos.
 
 ![imagem-pong-no-scratch](https://user-images.githubusercontent.com/100809861/177050745-03d32b0b-33a2-4ec3-931a-dd071486e605.png)
@@ -12,7 +12,7 @@ Esta atividade é fundamental para possibilitar o aprendizado dos primeiros elem
 
 O código está disponível no arquivo `pong.sb3`.
 
-## Jogo Espacial no Scratch
+### Jogo Espacial no Scratch
 
 A construção do programa **Jogo Espacial** no **[Scratch](https://scratch.mit.edu/)** é sugerida como atividade complementar.
 
