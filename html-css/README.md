@@ -8,6 +8,8 @@ Outros editores de código que podem ser utilizados são, por exemplo: **[Atom](
 
 ### Barbearia Alura
 
-A contrução da página **Barbearia Alura** tem por objetivo proporcionar o aprendizado dos primeiros elementos de **HTML** e **CSS**.
+A contrução da página **Barbearia Alura** tem por objetivo proporcionar o aprendizado dos primeiros elementos de programação em **HTML** e **CSS**.
 
-Em `pong.zip` estão todos os arquivos necessários, incluindo os sons utilizados.
+No arquivo `index.html` está a estrutura HTML da página e em `style.css` estão os elementos de renderização.
+
+A imagem utilizada está disponível no arquivo `banner.zip` e os textos estão disponíveis em `texto-base.zip`e `beneficios.zip`.
