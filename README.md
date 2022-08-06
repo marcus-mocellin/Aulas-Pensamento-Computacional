@@ -1,4 +1,6 @@
-# Pensamento Computacional na Base Nacional Comum Curricular
+# Pensamento Computacional
+
+## A BNCC e o Pensamento Computacional
 A **Base Nacional Comum Curricular ([BNCC](http://basenacionalcomum.mec.gov.br/))** é um documento de caráter normativo que define o conjunto orgânico e progressivo de aprendizagens essenciais que todos os alunos devem desenvolver ao longo das etapas e modalidades da Educação Básica.
 
 Na BNCC, encontra-se estabelecido o seguinte:
