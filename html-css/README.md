@@ -12,4 +12,4 @@ A contrução da página **Barbearia Alura** tem por objetivo proporcionar o apr
 
 ## GE Programação 2022
 
-A construção da página **Desafio: você pode aprender sobre tags de texto** foi uma atividade realizada no **Grupo de Estudo Programação 2022**.
+A construção da página **Desafio: você pode aprender sobre tags de texto** foi uma atividade realizada no **Grupo de Estudos Programação 2022**.
