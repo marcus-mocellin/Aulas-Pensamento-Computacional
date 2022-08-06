@@ -5,11 +5,3 @@ Para o desenvolvimento dos códigos **HTML** e **CSS** foi utilizado o editor de
 Se desejar, clique [aqui](https://www.sublimetext.com/download_thanks?target=win-x64) para realizar o download da versão para Windows.
 
 Outros editores de código que podem ser utilizados são, por exemplo: **[Atom](https://atom.io/)** e **[Visual Studio Code](https://code.visualstudio.com/)**.
-
-### Barbearia Alura
-
-A contrução da página **Barbearia Alura** tem por objetivo proporcionar o aprendizado dos primeiros elementos de programação em **HTML** e **CSS**.
-
-No arquivo `index.html` está a estrutura HTML da página e em `style.css` estão os elementos de renderização.
-
-A imagem utilizada está disponível no arquivo `banner.zip` e os textos estão disponíveis em `texto-base.zip`e `beneficios.zip`.
