@@ -7,3 +7,7 @@ Se desejar, clique [aqui](https://www.sublimetext.com/download_thanks?target=win
 Outros editores de código que podem ser utilizados são, por exemplo: **[Atom](https://atom.io/)** e **[Visual Studio Code](https://code.visualstudio.com/)**.
 
 ### Barbearia Alura
+
+A contrução da página **Barbearia Alura** tem por objetivo proporcionar o aprendizado dos primeiros elementos de **HTML** e **CSS**.
+
+Em `pong.zip` estão todos os arquivos necessários, incluindo os sons utilizados.
