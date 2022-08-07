@@ -8,7 +8,7 @@ A Construção do programa **Pong** no **[Scratch](https://scratch.mit.edu/)** �
 
 Esta atividade é fundamental para possibilitar o aprendizado dos primeiros elementos de **lógica de programação**.
 
-É importante propor desafios à medida que o programa for sendo construído, de forma que se possa avaliar como está ocorrendo o aprendizado dos alunos quanto à correta utilização dos blocos de programação e suas possíveis combinações.
+É importante propor desafios à medida que o programa é construído, de forma que se possa avaliar o aprendizado dos alunos em relação à correta utilização dos blocos de programação e suas combinações.
 
 O código está disponível no arquivo `pong.sb3`.
 
