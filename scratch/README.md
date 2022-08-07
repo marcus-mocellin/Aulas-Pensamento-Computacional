@@ -16,7 +16,7 @@ O código está disponível no arquivo `pong.sb3`.
 
 A construção do programa **Jogo Espacial** no **[Scratch](https://scratch.mit.edu/)** é sugerida como atividade complementar.
 
-O objetivo é proporcionar aos alunos a oportunidade necessária para a fixação dos conhecimentos anteriormente adquiridos, bem como para o desenvolvimento das habilidades almejadas.
+O objetivo é proporcionar aos alunos a oportunidade necessária para a fixação dos conhecimentos anteriormente adquiridos e o aprimoramento das habilidades almejadas.
 
 ![imagem-jogo-espacial](https://user-images.githubusercontent.com/100809861/177420565-0d6d034f-bbfd-493e-bfb8-3cc6382793ec.png)
 
