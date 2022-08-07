@@ -14,4 +14,4 @@ A contrução da página **Barbearia Alura** tem por objetivo proporcionar o apr
 
 A construção da página **Desafio: você pode aprender sobre tags de texto** foi uma atividade realizada no **Grupo de Estudos Programação 2022**.
 
-Ela pode ser utilzada para proporcionar aos alunos a oportunidade necessária para a fixação dos conhecimentos anteriormente adquiridos, bem como para o desenvolvimento das habilidades almejadas.
+Ela pode ser utilzada para proporcionar aos alunos a oportunidade necessária para a fixação dos conhecimentos anteriormente adquiridos e o aprimoramento das habilidades almejadas.
