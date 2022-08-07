@@ -8,7 +8,7 @@ A Construção do programa **Pong** no **[Scratch](https://scratch.mit.edu/)** �
 
 Esta atividade é fundamental para possibilitar o aprendizado dos primeiros elementos de **lógica de programação**.
 
-É importante que o professor proponha desafios à medida que constrói o programa, de forma a conseguir avaliar se os alunos aprenderam a utilizar corretamente os blocos de programação e suas combinações.
+É importante propor desafios à medida que o programa for sendo construído, de forma que se possa avaliar como está ocorrendo o aprendizado dos alunos quanto à correta utilização dos blocos de programação e suas possíveis combinações.
 
 O código está disponível no arquivo `pong.sb3`.
 
@@ -16,7 +16,7 @@ O código está disponível no arquivo `pong.sb3`.
 
 A construção do programa **Jogo Espacial** no **[Scratch](https://scratch.mit.edu/)** é sugerida como atividade complementar.
 
-O objetivo é proporcionar aos alunos a oportunidade e o tempo necessários para a fixação dos conhecimentos anteriormente adquiridos, bem como para o desenvolvimento das habilidades necessárias.
+O objetivo é proporcionar aos alunos a oportunidade necessária para a fixação dos conhecimentos anteriormente adquiridos, bem como para o desenvolvimento das habilidades almejadas.
 
 ![imagem-jogo-espacial](https://user-images.githubusercontent.com/100809861/177420565-0d6d034f-bbfd-493e-bfb8-3cc6382793ec.png)
 
@@ -28,7 +28,7 @@ Para a realização desta atividade, os alunos podem ser encorajados a aprendere
 - [Como Programar o Jogo Espacial no Scratch - Parte 5](https://www.youtube.com/watch?v=zqhWKmlq3A4)
 - [Como Programar o Jogo Espacial no Scratch - Parte 6](https://www.youtube.com/watch?v=FK8Mq8RGIzw)
 
-Esta é a fase do aprendizado que exige a maior disponibilidade de tempo e a maior atenção por parte do professor, principalmente com os alunos que nunca tiveram contato com computadores.
+Esta é a fase do aprendizado que exige a maior disponibilidade de tempo e muita atenção por parte do professor, principalmente com os alunos que nunca tiveram contato com computadores.
 
 Observa-se que os alunos que terminam esta etapa do aprendizado e não se sentem confortáveis para utilizar o Scratch sozinhos, ou não conseguem alcançar resultados satisfatórios durante as aulas, acabam se desmotivando ou, até mesmo, desenvolvendo bloqueios psicológicos que dificultam ou impedem o aprendizado posterior das linguagens de programação.
 
