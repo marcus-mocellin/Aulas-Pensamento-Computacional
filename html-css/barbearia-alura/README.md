@@ -5,3 +5,5 @@ No arquivo `index.html` está a estrutura HTML da página e em `style.css` estã
 O texto utilizado está disponível no arquivo `texto-base.zip`.
 
 As imagens utilizadas estão disponíveis nos arquivos `banner.zip` e `beneficios.zip`.
+
+![barbearia](https://user-images.githubusercontent.com/100809861/184420665-b2956583-2f96-48ad-9833-e127393ee0f5.png)
