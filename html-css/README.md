@@ -18,4 +18,4 @@ A construção da página **Desafio: você pode aprender sobre tags de texto** f
 
 Ela pode ser utilzada para proporcionar aos alunos a oportunidade necessária para a fixação dos conhecimentos anteriormente adquiridos e o aprimoramento das habilidades almejadas.
 
-![programacao](https://user-images.githubusercontent.com/100809861/184421176-57456c80-2f24-46df-8ee9-9e92ec8003f6.png)
+![pagina](https://user-images.githubusercontent.com/100809861/182268493-2af0c548-f832-47de-9b38-ce18e9e81d91.png)
