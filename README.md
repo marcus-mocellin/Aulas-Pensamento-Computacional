@@ -1,6 +1,6 @@
 # Pensamento Computacional
 
-## A BNCC e o Pensamento Computacional
+## BNCC e Pensamento Computacional
 A **Base Nacional Comum Curricular ([BNCC](http://basenacionalcomum.mec.gov.br/))** é um documento de caráter normativo que define o conjunto orgânico e progressivo de aprendizagens essenciais que todos os alunos devem desenvolver ao longo das etapas e modalidades da Educação Básica.
 
 Na BNCC, encontra-se estabelecido o seguinte:
@@ -52,13 +52,109 @@ Um **algoritmo** é um conjunto ordenado de passos, não ambíguos e com a final
 - Algoritmos com decomposição e reuso;
 - Algoritmo com recursividade.
 
+## Álgebra Booleana
+
+Em 1854, **George Boole** (metamático ingês) introduziu o formalismo denominado **Álgebra Booleana** que até hoje é utilizado para o tratamento sistemático da lógica. Este formalismo compreende um conjunto de operadores e axiomas, assumidos verdadeiros sem necessidade de prova.
+
+Diferentemente da álgebra ordinária dos reais, onde as variáveis podem assumir valores no intervalo (-&infin;;+&infin;), as variáveis Booleanas só podem assumir um número finito de valores. Em particular, na álgebra Booleana de dois valores, cada variável pode assumir um dentre dois valores possíveis, os quais podem ser denotados por [F,V] (falso e verdadeiro), [L,H] (low end high) ou ainda [0,1].
+
+Como o número de valores que cada variável pode assumir é finito (e pequeno), o número de estados que uma função Booleana pode assumir também será finito, o que significa que podemos descrever completamente as funções Booleanas utilizando tabelas. Devido a este fato, uma tabela que descreva uma função Booleana recebe o nome de **tabela verdade**, e nela são listadas todas as combinações de valores que as variáveis de entrada podem assumir e os correspondentes valores da função (saídas).
+
+Na álgebra Booleana, existem três operações ou funções básicas. São elas, operação **OU**, operação **E** e **complementação**. Todas as funções Booleanas podem ser representadas em termos destas operações básicas.
+
+### Operação OU (Adição Lógica)
+
+Uma definição para a operação **OU**, que também é denominada **adição lógica**, é:
+
+*“A operação **OU** resulta **1** se pelo menos uma das variáveis de entrada vale **1**”.*
+
+Como uma variável Booleana vale **1** ou vale **0** e, como o resultado de uma operação qualquer pode ser encarado como (ou atribuído a) uma variável Booleana, basta que definamos quando a operação vale **1**. Automaticamente, a operação resultará **0** nos demais casos. Assim, pode-se dizer que a operação **OU** resulta **0** somente quando todas as variáveis de entrada valem **0**.
+
+Um símbolo possível para representar a operação **OU** é “**+**”, tal como o símbolo da adição algébrica (dos reais). Porém, como estamos trabalhando com variáveis Booleanas, sabemos que não se trata da adição algébrica, mas sim da **adição lógica**. Outro símbolo também encontrado na bibliografia é “**&or;**”.
+
+Listando-se as possibilidades de combinações entre dois valores Booleanos e os respectivos resultados para a operação **OU**, tem-se:
+
+**0 + 0 = 0**
+
+**0 + 1 = 1**
+
+**1 + 0 = 1**
+
+**1 + 1 = 1**
+
+Note que a operação **OU** só pode ser definida se houver, pelo menos, duas variáveis envolvidas. Ou seja,  não é possível realizar a operação sobre somente uma variável. Devido a isso, o operador  “**+**” (**OU**) é dito **binário**.
+
+Nas equações, não costuma-se escrever todas as possibilidades de valores. Apenas adotamos uma letra (ou uma letra com um índice) para designar uma variável Booleana. Com isso, já se sabe que aquela variável pode assumir ou o valor **0** ou o valor **1**. Então, supondo que queiramos demonstar o comportamento da equação A+B (lê-se A ou B), poderíamos fazê-lo utilizando uma tabela verdade, como segue:
+
+![OU2](https://user-images.githubusercontent.com/100809861/184516115-20075fa1-4d08-4b2b-80fd-41651805a736.png)
+
+Da mesma forma, podemos mostrar o comportamento da equação A+B+C (lê-se A ou B ou C) por meio de uma tabela verdade. Como na equação há somente o símbolo “**+**”, trata-se da operação **OU** sobre três variáveis. Logo, pode-se aplicar diretamente a definição da operação **OU**: o resultado será **1** se pelo menos uma das variáveis de entrada valer **1**.
+
+![OU3](https://user-images.githubusercontent.com/100809861/184516116-d61a2cb1-0282-41e1-b324-aba167fd1ee2.png)
+
+É importante notar que, devido ao fato de haver somente um operador na equação, pode-se também avaliar a equação decompondo-a em pares. Por exemplo, pode-se primeiramente achar o resultado de A+B, para depois operar os valores resultantes com os respectivos valores de C. Esta propriedade é conhecida como **associativa**. Também a ordem em que são avaliadas as variáveis A, B e C é irrelevante (propriedade **comutativa**). Estas propriedades são ilustradas pela tabela verdade a seguir. Nela, os parêntesis indicam subexpressões já avaliadas em coluna imediatamente à esquerda. Note que os valores das colunas referentes às expressões A+B+C, (A+B)+C e (B+C)+A são os mesmos (na mesma ordem).
+
+![OUprop](https://user-images.githubusercontent.com/100809861/184516119-fe3a363b-bc12-470f-bbb6-981f294b2192.png)
+
+### Operação E (Multiplicação Lógica)
+
+A operação **E**, ou **multiplicação lógica**, pode ser definida da seguinte forma:
+
+*“A operação **E** resulta **0** se pelo menos uma das variáveis de entrada vale **0**”.*
+
+Pela definição dada, pode-se deduzir que o resultado da operação **E** será **1** se, e somente se, todas as entradas valerem **1**.
+
+O símbolo usualmente utilizado na operação **E** é “**&middot;**”, porém outra notação possível é “**&and;**”. Podemos, também, listar as possibilidades de combinações entre dois valores Booleanos e os respectivos resultados, para a operação **E**:
+
+**0 &middot; 0 = 0**
+
+**0 &middot; 1 = 0**
+
+**1 &middot; 0 = 0**
+
+**1 &middot; 1 = 1**
+
+Assim como a operação **OU**, a operação **E** só pode ser definida entre, pelo menos duas variáveis. Ou seja,  o operador “**&middot;**” (**E**) também é **binário**.
+
+Para mostrar o comportamento da equação A × B (lê-se A e B), escreve-se uma tabela verdade, como segue:
+
+![E2](https://user-images.githubusercontent.com/100809861/184516358-eb4565b0-387e-427a-b25b-9adf4de18743.png)
+
+De forma semelhante, pode-se determinar o resultado da equação A×B×C (lê-se A e B e C) utilizando diretamente a definição da operação **E**: o resultado será **0** se pelo menos uma das variáveis de entrada valer **0**.
+
+![E3](https://user-images.githubusercontent.com/100809861/184516389-b6652de3-498d-41b1-80ec-d413fe20c446.png)
+
+Também para a operação **E** valem as propriedades **associativa** e **comutativa**. Então, a equação A×BC pode ainda ser avaliada tomando-se as variáveis aos pares, em qualquer ordem. Veja a tabela verdade a seguir e compare os resultados.
+
+![Eprop](https://user-images.githubusercontent.com/100809861/184516417-f17d0a82-5101-4461-a35e-a167d5c39f55.png)
+
+### Complementação (ou Negação, ou Inversão)
+
+A operação **complementação** dispensa uma definição. É a operação cujo resultado é simplesmente o valor complementar ao que a variável apresenta. Também devido ao fato de uma variável Booleana poder assumir um entre somente dois valores, o valor complementar será **1** se a variável vale **0** e será **0** se a variável vale **1**.
+
+Os símbolos utilizados para representar a operação complementação sobre uma variável Booleana A são Ã , ~A e A' (lê-se A negado). Nesta disciplina, adotaremos o primeiro símbolo. O resultado da operação complementação pode ser listado:
+
+**~0 = 1**
+
+**~1 = 0**
+
+Diferentemente das operações **OU** e **E**, a **complementação** só é definida sobre uma variável, ou sobre o resultado de uma expressão. Ou seja,  o operador  **complementação** é dito **unário**. E a tabela verdade para A  é:
+
+![complementacao](https://user-images.githubusercontent.com/100809861/184516672-e10207b4-1fd0-4ab3-84da-cf82917b7df5.png)
+
+### Avaliação de Expressões Booleanas
+
+Dada a equação que descreve uma função Booleana qualquer, deseja-se saber detalhadamente como esta função se comporta para qualquer combinação das variáveis de entrada. O comportamento de uma função é descrito pela sua tabela verdade e este problema é conhecido como avaliação da função ou da expressão que descreve a função considerada. Em suma, deseja-se achar a tabela verdade para a função Booleana. Uma tabela verdade consiste basicamente de um conjunto de colunas, nas quais são listadas todas as combinações possíveis entre as variáveis de entrada (à esquerda) e o resultado da função (à direita). Também, pode-se criar colunas intermediárias, onde são listados os resultados de subexpressões contidas na expressão principal. Isto normalmente facilita a avaliação, principalmente no caso de equações muito complexas e/ou contendo muitas variáveis. Quando numa mesma equação Booleana aparecem operações E e OU, é necessário seguir a ordem de precedência. Tal como na álgebra dos reais, a multiplicação (lógica) tem precedência sobre a adição (lógica). Além disso, expressões entre parêntesis têm precedência sobre operadores E e OU que estejam no mesmo nível. Quanto à complementação, esta deve ser avaliada tão logo seja possível. Caso a complementação seja aplicada sobre uma subexpressão inteira, é necessário que se avalie primeiramente a subexpressão para, só após, inverter o seu resultado. O número de combinações que as variáveis de entrada podem assumir pode ser n calculado por 2 , onde n é o número de variáveis de entrada. O procedimento para a criação da tabela verdade a partir de uma equação Booleana é: 1. Criar colunas para as variáveis de entrada e listar todas as combinações o n possíveis, utilizando a fórmula n  de combinações = 2  (onde n é o número de variáveis de entrada); 2. Criar uma coluna para cada variável de entrada que apareça complementada na equação e anotar os valores resultantes; 3. Avaliar a equação seguindo a ordem de precedência, a partir do nível de parêntesis mais internos: o o 1  multiplicação lógica 2  adição lógica
+
 ## Sistema de Numeração Binária
 
-Também denominado **sistema binário** ou **sistema de base 2**, o **sistema de numeração binária** é um sistema de numeração posicional em que todas as quantidades são representadas com base em apenas dois números: ***um*** e ***zero*** (***1*** e ***0***). Estes dois números correspondem, respectivamente, a pares de estados (ou de condições), como: ***sim*** ou ***não***, ***verdadeiro*** ou ***falso***, ***ligado*** ou ***desligado***.
+Também denominado **sistema binário** ou **sistema de base 2**, o **sistema de numeração binária** é um sistema de numeração posicional em que todas as quantidades são representadas com base em arranjos que contêm apenas os números **zero** e **um** **[0,1]**. Estes dois números podem corresponder, respectivamente, a pares de estados (ou de condições), como por exemplo: **[não, sim]**, **[falso, verdadeiro]**, **[desligado, ligado]**.
 
-O **sistema binário** é a base da **álgebra booliana** (***George Boole*** — matemático inglês). A eletrônica digital e a computação estão baseadas no **sistema binário** e na **lógica de Boole** que, através de circuitos eletrônicos digitais, são capazes de representar os números e os caracteres, bem como realizar operações lógicas e aritméticas.
+A eletrônica digital e a computação se baseiam no **sistema de numeração binária** e na **Álgebra Booleana** que, através de circuitos eletrônicos digitais, são capazes de representar números e caracteres, bem como realizar operações lógicas e aritméticas.
 
-Os programas de computador são codificados na forma binária e armazenados em mídias como as memórias em estado sólido e os discos ópticos ou magnéticos. Em um programa, o **bit (b)** é a menor unidade de informação do **sistema de numeração binária**, assim como a **letra** é a menor unidade de informação do **sistema de escrita alfabética**.
+Os programas de computador são codificados na forma binária e armazenados em mídias como as memórias em estado sólido e os discos ópticos ou magnéticos.
+
+Em um programa, o **bit (b)** é a menor unidade de informação do **sistema de numeração binária**, assim como a **letra** é a menor unidade de informação do **sistema de escrita alfabética**.
 
 Os **bits** são agrupados, conforme a necessidade dos sistemas de computação, da seguinte forma:
 - 4 bits = **Nibble** (24 = 16 combinações);
@@ -67,7 +163,7 @@ Os **bits** são agrupados, conforme a necessidade dos sistemas de computação,
 - 32 bits = **Double Word** (232 = 4.294.967.296 combinações);
 - 64 bits = **Quad Word** (264 = 18.446.744.073.709.551.616 combinações).
 
-Os computadores digitais trabalham internamente com dois níveis de tensão que corespondem ao ***0*** e ao ***1*** do sistema binário. Um **processador** utiliza **blocos lógicos** complexos, formados por **portas lógicas** básicas, cujo funcionamento é amparado por um postulado fundamental da eletrônica digital que determina que um circuito opere apenas com dois níveis de tensão bem definidos. Por exemplo, em um circuito digital **TTL** (***Transistor Transistor Logic***), os dois níveis de tensão padronizados são **0 V** e **5 V**. Portanto, em um circuito **TTL**, o **0 V** será interpretado e representado como ***zero*** (***0***), enquanto o **5 V** será interpretado e representado como ***um*** (***1***).
+Os computadores digitais trabalham internamente com dois níveis de tensão que corespondem ao **[0]** e ao **[1]** do sistema de numeração binária. Um **processador** utiliza **blocos lógicos** complexos, formados por **portas lógicas** básicas, cujo funcionamento é amparado por um postulado fundamental da eletrônica digital que determina que um circuito opere apenas com dois níveis de tensão bem definidos. Por exemplo, em um circuito digital **TTL** (***Transistor Transistor Logic***), os dois níveis de tensão padronizados são **0 V** e **5 V**. Portanto, em um circuito **TTL**, o **0 V** será interpretado e representado como **[0]**, enquanto o **5 V** será interpretado e representado como **[1]**.
 
 ## Algumas Definições Úteis
 
