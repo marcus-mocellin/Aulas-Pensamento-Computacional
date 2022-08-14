@@ -66,9 +66,9 @@ Na álgebra Booleana existem três operações ou funções básicas: operação
 
 ### Operação OU (Adição Lógica)
 
-Define-se a operação **OU**, também denominada **adição lógica**, da seguinte forma: *“A operação **OU** resulta **1** se pelo menos uma das variáveis de entrada vale **1**”.*
+- *“A operação **OU** resulta **1** se pelo menos uma das variáveis de entrada vale **1**”.*
 
-Portanto, a operação **OU** resulta **0** somente quando todas as variáveis de entrada valem **0**.
+De acordo com a definição acima, a operação **OU**, também denominada **adição lógica**, resulta **0** somente quando todas as variáveis de entrada valem **0**.
 
 A operação **OU** pode ser representada pelo símbolo “**+**”, mesmo símbolo utilizado para a adição algébrica (dos reais). Outra notação bastante utilizada é “**&or;**”.
 
@@ -103,9 +103,9 @@ Da mesma forma, podemos demonstrar o comportamento da equação A+B+C (lê-se A 
 
 ### Operação E (Multiplicação Lógica)
 
-Define-se a operação **E**, também denomina **multiplicação lógica**, da seguinte forma: *“A operação **E** resulta **0** se pelo menos uma das variáveis de entrada vale **0**”.*
+- *“A operação **E** resulta **0** se pelo menos uma das variáveis de entrada vale **0**”.*
 
-Portanto, a operação **E** resulta **1** somente quando todas as variáveis de entrada valem **1**.
+De acordo com a definição acima, a operação **E**, também denomina **multiplicação lógica**, resulta **1** somente quando todas as variáveis de entrada valem **1**.
 
 A operação **E** pode ser representada pelo símbolo “**&middot;**”. Outra notação bastante utilizada é “**&and;**”.
 
