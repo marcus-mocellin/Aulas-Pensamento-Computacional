@@ -153,7 +153,29 @@ Diferentemente das operações **OU** e **E**, a **complementação** só é def
 
 ### Avaliação de Expressões Booleanas
 
-Dada a equação que descreve uma função Booleana qualquer, deseja-se saber detalhadamente como esta função se comporta para qualquer combinação das variáveis de entrada. O comportamento de uma função é descrito pela sua tabela verdade e este problema é conhecido como avaliação da função ou da expressão que descreve a função considerada. Em suma, deseja-se achar a tabela verdade para a função Booleana. Uma tabela verdade consiste basicamente de um conjunto de colunas, nas quais são listadas todas as combinações possíveis entre as variáveis de entrada (à esquerda) e o resultado da função (à direita). Também, pode-se criar colunas intermediárias, onde são listados os resultados de subexpressões contidas na expressão principal. Isto normalmente facilita a avaliação, principalmente no caso de equações muito complexas e/ou contendo muitas variáveis. Quando numa mesma equação Booleana aparecem operações E e OU, é necessário seguir a ordem de precedência. Tal como na álgebra dos reais, a multiplicação (lógica) tem precedência sobre a adição (lógica). Além disso, expressões entre parêntesis têm precedência sobre operadores E e OU que estejam no mesmo nível. Quanto à complementação, esta deve ser avaliada tão logo seja possível. Caso a complementação seja aplicada sobre uma subexpressão inteira, é necessário que se avalie primeiramente a subexpressão para, só após, inverter o seu resultado. O número de combinações que as variáveis de entrada podem assumir pode ser n calculado por 2 , onde n é o número de variáveis de entrada. O procedimento para a criação da tabela verdade a partir de uma equação Booleana é: 1. Criar colunas para as variáveis de entrada e listar todas as combinações o n possíveis, utilizando a fórmula n  de combinações = 2  (onde n é o número de variáveis de entrada); 2. Criar uma coluna para cada variável de entrada que apareça complementada na equação e anotar os valores resultantes; 3. Avaliar a equação seguindo a ordem de precedência, a partir do nível de parêntesis mais internos: o o 1  multiplicação lógica 2  adição lógica
+Dada a equação que descreve uma função Booleana qualquer, deseja-se saber detalhadamente como esta função se comporta para qualquer combinação das variáveis de entrada. O comportamento de uma função é descrito pela sua tabela verdade e este problema é conhecido como **avaliação** da função ou da expressão que descreve a função considerada. Em suma, deseja-se achar a tabela verdade para a função Booleana.
+
+Uma tabela verdade consiste basicamente de um conjunto de colunas, nas quais são listadas todas as combinações possíveis entre as variáveis de entrada (à esquerda) e o resultado da função (à direita). Também, pode-se criar colunas intermediárias, onde são listados os resultados de subexpressões contidas na expressão principal. Isto normalmente facilita a avaliação, principalmente no caso de equações muito complexas e/ou contendo muitas variáveis.
+
+Quando numa mesma equação Booleana aparecem operações **E** e **OU**, é necessário seguir a ordem de precedência. Tal como na álgebra dos reais, a multiplicação (lógica) tem precedência sobre a adição (lógica). Além disso, expressões entre parêntesis têm precedência sobre operadores **E** e **OU** que estejam no mesmo nível. Quanto à complementação, esta deve ser avaliada tão logo seja possível. Caso a complementação seja aplicada sobre uma subexpressão inteira, é necessário que se avalie primeiramente a subexpressão para, só após, inverter o seu resultado.
+
+O número de combinações que as variáveis de entrada podem assumir pode ser n calculado por 2<sup>n</sup>, onde n é o número de variáveis de entrada.
+
+O procedimento para a criação da tabela verdade a partir de uma equação Booleana é:
+
+1. Criar colunas para as variáveis de entrada e listar todas as combinações o n possíveis, utilizando a fórmula n° de combinações = 2<sup>n</sup> (onde n é o número de variáveis de entrada);
+2. Criar uma coluna para cada variável de entrada que apareça complementada na equação e anotar os valores resultantes;
+3. Avaliar a equação seguindo a ordem de precedência, a partir do nível de parêntesis mais internos:
+    
+    1° multiplicação lógica
+    
+    2° adição lógica
+
+Tomemos como exemplo a expressão W = X + Y &middot; ~Z . A variável W representa a função Booleana propriamente dita. Esta variável depende das variáveis que estão à direita do sinal =, ou seja, depende de X, Y e Z. Logo, são 3 as variáveis de entrada. O total de combinações entre 3 variáveis será 2<sup>3</sup> = 8. Então, a tabela verdade para W deverá ter 3 colunas para as variáveis de entrada, 2 colunas para as combinações dessas variáveis e 8 linhas para os resultados da função. Seguindo o procedimento dado acima, cria-se uma coluna na qual listam-se os valores para ~Z. Em seguida, resolve-se a subexpressão que envolve a operação **E**. No caso em questão, Y &middot; ~Z. Então, cria-se uma coluna para Y &middot; ~Z , na qual anotam-se os resultados para este produto. Finalmente, utilizam-se os resultados de Y &middot; ~Z, listados na coluna anterior, para operar o **OU** com a variável X. Repare os passos descritos na tabela verdade que segue.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100809861/184518577-8f5807bf-184a-4575-82ab-29b44f30afae.png"/>
+</p>
 
 ## Sistema de Numeração Binária
 
