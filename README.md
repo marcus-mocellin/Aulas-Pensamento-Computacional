@@ -29,7 +29,9 @@ Portanto, o foco passa a estar no reconhecimento das potencialidades das tecnolo
 
 Um **algoritmo** é um conjunto ordenado de passos, não ambíguos e com a finalidade de resolver um determinado problema. Um algoritmo pode ser representado na forma ***narrativa***, através de ***fluxograma***, ***linguagem algorítmica*** ou ***Diagrama de Chapin Estruturado***.
 
-![Fluxograma](https://user-images.githubusercontent.com/100809861/177052433-a7b3bf2b-328f-4a26-a2ea-7c41c4fbc51b.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100809861/177052433-a7b3bf2b-328f-4a26-a2ea-7c41c4fbc51b.png"/>
+</p>
 
 **Características básicas** de um algoritmo:
 - Ser finito;
@@ -74,27 +76,30 @@ Um símbolo possível para representar a operação **OU** é “**+**”, tal c
 
 Listando-se as possibilidades de combinações entre dois valores Booleanos e os respectivos resultados para a operação **OU**, tem-se:
 
-**0 + 0 = 0**
-
-**0 + 1 = 1**
-
-**1 + 0 = 1**
-
-**1 + 1 = 1**
+<p align="center"><strong>0 + 0 = 0</strong></p>
+<p align="center"><strong>0 + 1 = 1</strong></p>
+<p align="center"><strong>1 + 0 = 1</strong></p>
+<p align="center"><strong>1 + 1 = 1</strong></p>
 
 Note que a operação **OU** só pode ser definida se houver, pelo menos, duas variáveis envolvidas. Ou seja,  não é possível realizar a operação sobre somente uma variável. Devido a isso, o operador  “**+**” (**OU**) é dito **binário**.
 
 Nas equações, não costuma-se escrever todas as possibilidades de valores. Apenas adotamos uma letra (ou uma letra com um índice) para designar uma variável Booleana. Com isso, já se sabe que aquela variável pode assumir ou o valor **0** ou o valor **1**. Então, supondo que queiramos demonstar o comportamento da equação A+B (lê-se A ou B), poderíamos fazê-lo utilizando uma tabela verdade, como segue:
 
-![OU2](https://user-images.githubusercontent.com/100809861/184516115-20075fa1-4d08-4b2b-80fd-41651805a736.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100809861/184516115-20075fa1-4d08-4b2b-80fd-41651805a736.png"/>
+</p>
 
 Da mesma forma, podemos mostrar o comportamento da equação A+B+C (lê-se A ou B ou C) por meio de uma tabela verdade. Como na equação há somente o símbolo “**+**”, trata-se da operação **OU** sobre três variáveis. Logo, pode-se aplicar diretamente a definição da operação **OU**: o resultado será **1** se pelo menos uma das variáveis de entrada valer **1**.
 
-![OU3](https://user-images.githubusercontent.com/100809861/184516116-d61a2cb1-0282-41e1-b324-aba167fd1ee2.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100809861/184516116-d61a2cb1-0282-41e1-b324-aba167fd1ee2.png"/>
+</p>
 
 É importante notar que, devido ao fato de haver somente um operador na equação, pode-se também avaliar a equação decompondo-a em pares. Por exemplo, pode-se primeiramente achar o resultado de A+B, para depois operar os valores resultantes com os respectivos valores de C. Esta propriedade é conhecida como **associativa**. Também a ordem em que são avaliadas as variáveis A, B e C é irrelevante (propriedade **comutativa**). Estas propriedades são ilustradas pela tabela verdade a seguir. Nela, os parêntesis indicam subexpressões já avaliadas em coluna imediatamente à esquerda. Note que os valores das colunas referentes às expressões A+B+C, (A+B)+C e (B+C)+A são os mesmos (na mesma ordem).
 
-![OUprop](https://user-images.githubusercontent.com/100809861/184516119-fe3a363b-bc12-470f-bbb6-981f294b2192.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100809861/184516119-fe3a363b-bc12-470f-bbb6-981f294b2192.png"/>
+</p>
 
 ### Operação E (Multiplicação Lógica)
 
@@ -106,27 +111,30 @@ Pela definição dada, pode-se deduzir que o resultado da operação **E** será
 
 O símbolo usualmente utilizado na operação **E** é “**&middot;**”, porém outra notação possível é “**&and;**”. Podemos, também, listar as possibilidades de combinações entre dois valores Booleanos e os respectivos resultados, para a operação **E**:
 
-**0 &middot; 0 = 0**
-
-**0 &middot; 1 = 0**
-
-**1 &middot; 0 = 0**
-
-**1 &middot; 1 = 1**
+<p align="center"><strong>0 &middot; 0 = 0</strong></p>
+<p align="center"><strong>0 &middot; 1 = 0</strong></p>
+<p align="center"><strong>1 &middot; 0 = 0</strong></p>
+<p align="center"><strong>1 &middot; 1 = 1</strong></p>
 
 Assim como a operação **OU**, a operação **E** só pode ser definida entre, pelo menos duas variáveis. Ou seja,  o operador “**&middot;**” (**E**) também é **binário**.
 
 Para mostrar o comportamento da equação A × B (lê-se A e B), escreve-se uma tabela verdade, como segue:
 
-![E2](https://user-images.githubusercontent.com/100809861/184516358-eb4565b0-387e-427a-b25b-9adf4de18743.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100809861/184516358-eb4565b0-387e-427a-b25b-9adf4de18743.png"/>
+</p>
 
 De forma semelhante, pode-se determinar o resultado da equação A×B×C (lê-se A e B e C) utilizando diretamente a definição da operação **E**: o resultado será **0** se pelo menos uma das variáveis de entrada valer **0**.
 
-![E3](https://user-images.githubusercontent.com/100809861/184516389-b6652de3-498d-41b1-80ec-d413fe20c446.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100809861/184516389-b6652de3-498d-41b1-80ec-d413fe20c446.png"/>
+</p>
 
 Também para a operação **E** valem as propriedades **associativa** e **comutativa**. Então, a equação A×BC pode ainda ser avaliada tomando-se as variáveis aos pares, em qualquer ordem. Veja a tabela verdade a seguir e compare os resultados.
 
-![Eprop](https://user-images.githubusercontent.com/100809861/184516417-f17d0a82-5101-4461-a35e-a167d5c39f55.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100809861/184516417-f17d0a82-5101-4461-a35e-a167d5c39f55.png"/>
+</p>
 
 ### Complementação (ou Negação, ou Inversão)
 
@@ -134,13 +142,14 @@ A operação **complementação** dispensa uma definição. É a operação cujo
 
 Os símbolos utilizados para representar a operação complementação sobre uma variável Booleana A são Ã , ~A e A' (lê-se A negado). Nesta disciplina, adotaremos o primeiro símbolo. O resultado da operação complementação pode ser listado:
 
-**~0 = 1**
-
-**~1 = 0**
+<p align="center"><strong>~0 = 1</strong></p>
+<p align="center"><strong>~1 = 0</strong></p>
 
 Diferentemente das operações **OU** e **E**, a **complementação** só é definida sobre uma variável, ou sobre o resultado de uma expressão. Ou seja,  o operador  **complementação** é dito **unário**. E a tabela verdade para A  é:
 
-![complementacao](https://user-images.githubusercontent.com/100809861/184516672-e10207b4-1fd0-4ab3-84da-cf82917b7df5.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100809861/184516672-e10207b4-1fd0-4ab3-84da-cf82917b7df5.png"/>
+</p>
 
 ### Avaliação de Expressões Booleanas
 
