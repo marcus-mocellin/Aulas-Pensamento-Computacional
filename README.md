@@ -9,7 +9,7 @@ O Ensino Médio deve garantir aos estudantes a compreensão dos fundamentos cien
 
 É preciso garantir aos jovens aprendizagens para atuar em uma sociedade em constante mudança, prepará-los para profissões que ainda não existem, para usar tecnologias que ainda não foram inventadas e para resolver problemas que ainda não conhecemos. Certamente, grande parte das futuras profissões envolverá, direta ou indiretamente, computação e tecnologias digitais.
 
-**O pensamento computacional**, juntamente com o mundo digital e a cultura digital, são temas que fazem parte das diferentes dimensões que caracterizam a computação e as tecnologias digitais; e **tem por objetivo denvolver as capacidades de compreender, analisar, definir, modelar, resolver, comparar e automatizar problemas e suas soluções, de forma metódica e sistemática, por meio do desenvolvimento de algoritmos.**
+**O pensamento computacional**, juntamente com o mundo digital e a cultura digital, são temas que fazem parte das diferentes dimensões que caracterizam a computação e as tecnologias digitais; e **tem por objetivo desenvolver as capacidades de compreender, analisar, definir, modelar, resolver, comparar e automatizar problemas e suas soluções, de forma metódica e sistemática, por meio do desenvolvimento de algoritmos.**
 
 No Ensino Médio, dada a intrínseca relação entre as culturas juvenis e a cultura digital, torna-se imprescindível ampliar e aprofundar as aprendizagens construídas nas etapas do Ensino Fundamental. Afinal, os jovens estão dinamicamente inseridos na cultura digital, não somente como consumidores, mas se engajando cada vez mais como protagonistas.
 
@@ -56,7 +56,7 @@ Um **algoritmo** é um conjunto ordenado de passos, não ambíguos e com a final
 
 ## Álgebra Booleana
 
-Em 1854, **George Boole** (metamático e filósofo britânico) introduziu o formalismo denominado **Álgebra Booleana** que é utilizado até hoje para o tratamento sistemático da lógica. Este formalismo compreende um conjunto de operadores e axiomas, assumidos verdadeiros sem necessidade de prova.
+Em 1854, **George Boole** (matemático e filósofo britânico) introduziu o formalismo denominado **Álgebra Booleana** que é utilizado até hoje para o tratamento sistemático da lógica. Este formalismo compreende um conjunto de operadores e axiomas, assumidos verdadeiros sem necessidade de prova.
 
 Diferentemente da álgebra ordinária dos reais, onde as variáveis podem assumir valores no intervalo (-&infin;;+&infin;), as variáveis Booleanas só podem assumir um número finito de valores. Em particular, na álgebra Booleana de dois valores, cada variável pode assumir um dentre dois valores possíveis, os quais podem ser denotados por [F,V] (falso ou verdadeiro), [L,H] (low or high) ou ainda [0,1].
 
@@ -87,7 +87,7 @@ Em uma operação **OU**, as possibilidades de combinações entre duas variáve
 
 Note que a operação **OU** só pode ser definida se houver, pelo menos, duas variáveis envolvidas. Ou seja, não é possível realizar a operação com uma uníca variável. Devido a isso, o operador  “**+**” (**OU**) é dito **binário**.
 
-Nas equações, não costuma-se escrever todas as possibilidades de valores. Apenas adotamos uma letra (ou uma letra com um índice) para designar uma variável Booleana. Com isso, já se sabe que aquela variável pode assumir ou o valor **0** ou o valor **1**. Então, para demonstrar o comportamento da equação A+B (lê-se A ou B), utiliza-se uma tabela verdade da seguinte forma:
+Nas equações, não se costuma escrever todas as possibilidades de valores. Apenas adotamos uma letra (ou uma letra com um índice) para designar uma variável Booleana. Com isso, já se sabe que aquela variável pode assumir ou o valor **0** ou o valor **1**. Então, para demonstrar o comportamento da equação A+B (lê-se A ou B), utiliza-se uma tabela verdade da seguinte forma:
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/100809861/184516115-20075fa1-4d08-4b2b-80fd-41651805a736.png"/>
@@ -202,7 +202,7 @@ Os **bits** são agrupados, conforme a necessidade dos sistemas de computação,
 - 32 bits = **Double Word** (232 = 4.294.967.296 combinações);
 - 64 bits = **Quad Word** (264 = 18.446.744.073.709.551.616 combinações).
 
-Os computadores digitais trabalham internamente com dois níveis de tensão que corespondem ao **[0]** e ao **[1]** do sistema de numeração binária. Um **processador** utiliza **blocos lógicos** complexos, formados por **portas lógicas** básicas, cujo funcionamento é amparado por um postulado fundamental da eletrônica digital que determina que um circuito opere apenas com dois níveis de tensão bem definidos. Por exemplo, em um circuito digital **TTL** (***Transistor Transistor Logic***), os dois níveis de tensão padronizados são **0 V** e **5 V**. Portanto, em um circuito **TTL**, o **0 V** será interpretado e representado como **[0]**, enquanto o **5 V** será interpretado e representado como **[1]**.
+Os computadores digitais trabalham internamente com dois níveis de tensão que correspondem ao **[0]** e ao **[1]** do sistema de numeração binária. Um **processador** utiliza **blocos lógicos** complexos, formados por **portas lógicas** básicas, cujo funcionamento é amparado por um postulado fundamental da eletrônica digital que determina que um circuito opere apenas com dois níveis de tensão bem definidos. Por exemplo, em um circuito digital **TTL** (***Transistor Transistor Logic***), os dois níveis de tensão padronizados são **0 V** e **5 V**. Portanto, em um circuito **TTL**, o **0 V** será interpretado e representado como **[0]**, enquanto o **5 V** será interpretado e representado como **[1]**.
 
 ## Algumas Definições Úteis
 
