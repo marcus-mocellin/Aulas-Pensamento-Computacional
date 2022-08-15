@@ -196,6 +196,12 @@ Os **bits** são agrupados, conforme a necessidade dos sistemas de computação,
 
 Os computadores digitais trabalham internamente com dois níveis de tensão que correspondem ao **[0]** e ao **[1]** do sistema de numeração binária. Um **processador** utiliza **blocos lógicos** complexos, formados por **portas lógicas** básicas, cujo funcionamento é amparado por um postulado fundamental da eletrônica digital que determina que um circuito opere apenas com dois níveis de tensão bem definidos. Por exemplo, em um circuito digital **TTL** (***Transistor Transistor Logic***), os dois níveis de tensão padronizados são **0 V** e **5 V**. Portanto, em um circuito **TTL**, o **0 V** será interpretado e representado como **[0]**, enquanto o **5 V** será interpretado e representado como **[1]**.
 
+## Programa EduTech
+
+Em um programa de parceria com o **[Governo do Estado do Paraná](https://www.parana.pr.gov.br/)** denominado **[Edutech](https://www.educacao.pr.gov.br/programacao)**, a **[Alura](https://www.alura.com.br/)** e a **Secretaria da Educação e do Esporte ([SEED-PR](https://www.educacao.pr.gov.br/))** oportunizam a aprendizagem da programação aos estudantes da rede estadual de educação, contemplando o pensamento computacional, a cultura e o letramento digital.
+
+A quase totalidade das atividades de programação descritas neste repositório fazem parte dos cursos da Alura.
+
 ## Algumas Definições Úteis
 
 **Computação desplugada**: ensino de ciência da computação sem o uso de equipamentos de computação. Para tanto, faz-se necessário o desenvolvimento de atividades apropriadas que possibilitem o desenvolvimento das habilidades de resolução de problemas e de comunicação.
