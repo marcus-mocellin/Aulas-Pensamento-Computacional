@@ -2,7 +2,7 @@
 
 ## Programa EduTech
 
-Em um programa educacional denominado **[Edutech](https://www.educacao.pr.gov.br/programacao)**, realizado em parceria com a **[Alura](https://www.alura.com.br/)**, o **[Governo do Estado do Paraná](https://www.parana.pr.gov.br/)**, através da **Secretaria da Educação e do Esporte ([SEED-PR](https://www.educacao.pr.gov.br/))**, oportuniza a aprendizagem da programação aos estudantes do Ensino Fundamental e Médio, contemplando o pensamento computacional, a cultura e o letramento digital.
+Em um programa educacional denominado **[Edutech](https://www.educacao.pr.gov.br/programacao)**, realizado em parceria com a **[Alura](https://www.alura.com.br/)**, o **[Governo do Estado do Paraná](https://www.parana.pr.gov.br/)**, através da **Secretaria da Educação e do Esporte ([SEED-PR](https://www.educacao.pr.gov.br/))**, oportuniza aos estudantes do Ensino Fundamental e Médio, o ensino do pensamento computacional, da cultura e do letramento digital.
 
 Como este repositório é destinado ao aprendizado do **Pensamento Computacional**, as atividades de programação aqui descritas visam aos estudantes da **1<sup>a</sup> Série do Ensino Médio** e fazem parte dos cursos da **Alura**.
 
