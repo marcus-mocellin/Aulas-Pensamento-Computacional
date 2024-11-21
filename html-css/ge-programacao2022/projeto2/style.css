@@ -1,0 +1,57 @@
+body {
+	margin: 0;
+}
+
+#titulo-programadores {
+	background: #11404F;
+	padding: 20px 20px;
+	border: 0;
+	margin: 0;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+.div-programadores {
+	background: url("dourado.jpg");
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+}
+
+ul li {
+	display: inline-block;
+	text-align: center;
+	width: 20%;
+	padding: 1% 2.3% 3.5% 2.3%;
+	vertical-align: top;
+}
+
+.img-programadores {
+	border-radius: 10px;
+}
+
+#titulo-linha-tempo {
+	background: #11404F;
+	padding: 20px 20px;
+	border: 0;
+	margin: 0;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+.div-linha-tempo {
+	background: url("dourado.jpg");
+}
+
+ol {
+	margin: 0;
+
+}
+
+ol li {
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 2;
+}
