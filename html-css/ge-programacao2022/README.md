@@ -14,8 +14,6 @@ A imagem utilizada está disponível no arquivo `creative.jpg`.
 
 ![pagina](https://user-images.githubusercontent.com/100809861/185488115-d6f74f66-548f-4723-a03d-77b86e9f3eaa.png)
 
-No arquivo `index1.html` está a estrutura HTML da página e em `style1.css` estão as configurações visuais.
-
-O texto utilizado está disponível no arquivo `texto1.zip`.
+No arquivo `index.html` está a estrutura HTML da página e em `style.css` estão as configurações visuais.
 
 As imagens utilizadas estão disponíveis nos arquivos 'berners-lee.jpg', 'dourado.jpg' 'hopper.jpg', 'knuth.jpg' e 'lovelace.jpg'.
