@@ -4,7 +4,7 @@
 
 Em um programa educacional denominado **[Programa EduTech](https://www.educacao.pr.gov.br/programacao)**, realizado em parceria com a **[Alura](https://www.alura.com.br/)**, o **[Governo do Estado do Paraná](https://www.parana.pr.gov.br/)**, através da **Secretaria da Educação e do Esporte ([SEED-PR](https://www.educacao.pr.gov.br/))**, oportuniza aos estudantes do Ensino Fundamental e Médio, o aprendizado do **Pensamento Computacional**.
 
-Neste repositório é possível encontrar as atividades desenvolvidas pelo **Programa EduTech**, destinadas aos estudantes da **1<sup>a</sup> Série do Ensino Médio**.
+Neste repositório é possível encontrar as atividades desenvolvidas pelo **Programa EduTech**, destinadas aos estudantes dos **8<sup>os</sup> e 9<sup>os</sup> Anos do Ensino fundamental** e da **1<sup>a</sup> Série do Ensino Médio**.
 
 ## BNCC e Pensamento Computacional
 A **Base Nacional Comum Curricular ([BNCC](http://basenacionalcomum.mec.gov.br/))** é um documento de caráter normativo que define o conjunto orgânico e progressivo de aprendizagens essenciais que todos os alunos devem desenvolver ao longo das etapas e modalidades da Educação Básica.
