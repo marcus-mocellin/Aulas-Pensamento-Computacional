@@ -14,8 +14,10 @@ A contrução da página **Barbearia Alura** tem por objetivo proporcionar o apr
 
 ## GE Programação 2022
 
-A construção da página **Desafio: você pode aprender sobre tags de texto** foi uma atividade realizada no **Grupo de Estudos Programação 2022**.
+As páginas **Desafio: você pode aprender sobre tags de texto** e **Trabalhando com listas no HTML** são atividades do **Grupo de Estudos Programação 2022**.
 
-Ela pode ser utilzada para proporcionar aos alunos a oportunidade necessária para a fixação dos conhecimentos anteriormente adquiridos e o aprimoramento das habilidades almejadas.
+Elas podem ser utilzadas para proporcionar aos alunos a oportunidade necessária para a fixação dos conhecimentos anteriormente adquiridos e o aprimoramento das habilidades almejadas.
 
 ![pagina](https://user-images.githubusercontent.com/100809861/182268493-2af0c548-f832-47de-9b38-ce18e9e81d91.png)
+
+![pagina](https://user-images.githubusercontent.com/100809861/185488115-d6f74f66-548f-4723-a03d-77b86e9f3eaa.png)
